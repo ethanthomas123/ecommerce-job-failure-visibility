@@ -43,3 +43,7 @@ Quick start is above. For a real deployment you'll also need: The details below 
 
 **Ecommerce Job Failure Visibility: Observability**
 - **Ecommerce Job Failure Visibility:** Capture on the server (`POST /v1/errors/capture`); scrub PII before sending. Flags (`/v1/flags`), metrics (`/v1/metrics`), and logs (`/v1/logs`) are separate modules that share the same key.
+
+## Further reading
+
+- [Beginner SaaS Signal Design: Error Tracking, Uptime Monitoring, and Cron Heartbeats](docs/beginner-saas-signal-design-error-tracking-uptime-176hx5.md)
